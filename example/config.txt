@@ -1,0 +1,2 @@
+Prefix plugins/Subspecies/example
+Plugin Subspecies inputfile input.krona outputfile input.subspecies.krona
